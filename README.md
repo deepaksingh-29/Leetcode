@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/deepaksingh-29/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/deepaksingh-29/Leetcode/tree/master/0066-plus-one) |
+| [0119-pascals-triangle-ii](https://github.com/deepaksingh-29/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/deepaksingh-29/Leetcode/tree/master/0342-power-of-four) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/deepaksingh-29/Leetcode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
