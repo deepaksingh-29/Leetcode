@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/deepaksingh-29/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/deepaksingh-29/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/deepaksingh-29/Leetcode/tree/master/0066-plus-one) |
+| [0224-basic-calculator](https://github.com/deepaksingh-29/Leetcode/tree/master/0224-basic-calculator) |
 | [0342-power-of-four](https://github.com/deepaksingh-29/Leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepaksingh-29/Leetcode/tree/master/0002-add-two-numbers) |
+| [0224-basic-calculator](https://github.com/deepaksingh-29/Leetcode/tree/master/0224-basic-calculator) |
 | [0342-power-of-four](https://github.com/deepaksingh-29/Leetcode/tree/master/0342-power-of-four) |
 ## Array
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/deepaksingh-29/Leetcode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/deepaksingh-29/Leetcode/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/deepaksingh-29/Leetcode/tree/master/0224-basic-calculator) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -47,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/deepaksingh-29/Leetcode/tree/master/0119-pascals-triangle-ii) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/deepaksingh-29/Leetcode/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
