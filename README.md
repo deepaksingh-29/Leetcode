@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/deepaksingh-29/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/deepaksingh-29/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/deepaksingh-29/Leetcode/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/deepaksingh-29/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/deepaksingh-29/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/deepaksingh-29/Leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/deepaksingh-29/Leetcode/tree/master/0125-valid-palindrome) |
 ## Hash Table
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/deepaksingh-29/Leetcode/tree/master/0224-basic-calculator) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/deepaksingh-29/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
