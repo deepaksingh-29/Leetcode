@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/deepaksingh-29/Leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/deepaksingh-29/Leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/deepaksingh-29/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/deepaksingh-29/Leetcode/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/deepaksingh-29/Leetcode/tree/master/0224-basic-calculator) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/deepaksingh-29/Leetcode/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/deepaksingh-29/Leetcode/tree/master/0224-basic-calculator) |
 ## Greedy
 |  |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/deepaksingh-29/Leetcode/tree/master/0100-same-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/deepaksingh-29/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
