@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/deepaksingh-29/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/deepaksingh-29/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/deepaksingh-29/Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/deepaksingh-29/Leetcode/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/deepaksingh-29/Leetcode/tree/master/0224-basic-calculator) |
 | [0342-power-of-four](https://github.com/deepaksingh-29/Leetcode/tree/master/0342-power-of-four) |
 ## Recursion
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/deepaksingh-29/Leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/deepaksingh-29/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Stack
 |  |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/deepaksingh-29/Leetcode/tree/master/0020-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/deepaksingh-29/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
