@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/deepaksingh-29/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/deepaksingh-29/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/deepaksingh-29/Leetcode/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/deepaksingh-29/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/deepaksingh-29/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/deepaksingh-29/Leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/deepaksingh-29/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/deepaksingh-29/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Stack
 |  |
