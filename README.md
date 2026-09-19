@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/deepaksingh-29/Leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/deepaksingh-29/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/deepaksingh-29/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/deepaksingh-29/Leetcode/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/deepaksingh-29/Leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/deepaksingh-29/Leetcode/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/deepaksingh-29/Leetcode/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
