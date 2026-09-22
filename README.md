@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/deepaksingh-29/Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/deepaksingh-29/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/deepaksingh-29/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/deepaksingh-29/Leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/deepaksingh-29/Leetcode/tree/master/0118-pascals-triangle) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/deepaksingh-29/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/deepaksingh-29/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/deepaksingh-29/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/deepaksingh-29/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/deepaksingh-29/Leetcode/tree/master/0067-add-binary) |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/deepaksingh-29/Leetcode/tree/master/0070-climbing-stairs) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/deepaksingh-29/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
