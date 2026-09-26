@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/deepaksingh-29/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/deepaksingh-29/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/deepaksingh-29/Leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/deepaksingh-29/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/deepaksingh-29/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/deepaksingh-29/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/deepaksingh-29/Leetcode/tree/master/0118-pascals-triangle) |
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/deepaksingh-29/Leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/deepaksingh-29/Leetcode/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/deepaksingh-29/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
